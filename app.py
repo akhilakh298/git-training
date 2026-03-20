@@ -10,7 +10,10 @@ print("cc")
 print("dd")
 print("ee")
 print("ff")
+<<<<<<< Updated upstream
 print("hh")
+=======
+>>>>>>> Stashed changes
 print("ii")
 
 def auth():

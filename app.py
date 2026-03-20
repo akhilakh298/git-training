@@ -10,3 +10,7 @@ print("cc")
 print("dd")
 print("ee")
 print("ff")
+print("gg")
+
+def auth():
+    return

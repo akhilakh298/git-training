@@ -14,3 +14,9 @@ print("ii")
 
 def auth():
     return
+
+def auth1():
+    return
+
+def auth2():
+    return

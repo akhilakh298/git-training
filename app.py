@@ -16,6 +16,7 @@ def auth():
     return
 
 def auth1():
+    b=1
     return
 
 def auth2():

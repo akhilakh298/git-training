@@ -21,3 +21,6 @@ def auth1():
 
 def auth2():
     return
+
+def chat():
+    print("Chat feature is being added")

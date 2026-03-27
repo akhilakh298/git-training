@@ -28,6 +28,10 @@ def start():
 
 print("Chataway app")
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 116a607 (Chat function added through feature-chat branch)
 def chat():
     print("Chat feature is being added")
 

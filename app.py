@@ -13,6 +13,7 @@ print("ff")
 print("ii")
 
 def auth():
+    a=1
     return
 
 def auth1():

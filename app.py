@@ -28,3 +28,6 @@ def start():
 
 def chat():
     print("Chat feature is being added")
+
+def random1():
+    return

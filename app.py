@@ -21,3 +21,7 @@ def auth1():
 
 def auth2():
     return
+
+print("Chataway application")
+def start():
+    print("Starting a new feature")

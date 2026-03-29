@@ -22,5 +22,6 @@ def auth1():
 def auth2():
     return
 
+print("Chataway app")
 def chat():
     print("Chat feature is being added")

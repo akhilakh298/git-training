@@ -26,6 +26,8 @@ print("Chataway application")
 def start():
     print("Starting a new feature")
 
+print("Chataway app")
+
 def chat():
     print("Chat feature is being added")
 
